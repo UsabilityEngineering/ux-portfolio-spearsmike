@@ -4,12 +4,12 @@
 In this journal I will describe my interaction with my computer monitor’s OSD (onscreen display) and examine its strengths and weaknesses focusing on **learnability**, **efficiency** and **error tolerance**.
 #### Background
 A monitor's OSD allows a user to change its many settings such as position, color balance, brightness, contrast, display input, etc. My monitor has the controls for the OSD at the bottom of the LCD panel. <br>
-![OSD Buttons](assets/OSD_buttons.jpg) <br>
+![OSD Buttons](/assets/OSD_buttons.jpg) <br>
 Pressing any of the bottom buttons (minus the power button) shows a menu with icons. <br>
-![OSD Main Menu](assets/OSD_main.jpg)
+![OSD Main Menu](/assets/OSD_main.jpg)
 ## Narrative
 I rarely change my monitor’s settings (twice a year at most) but I have recently tried to change the brightness. I started by pressing one of the buttons at the bottom of the display next the to the blue power light expecting to see a menu; instead, the monitor turned off. Annoyed, I turned the monitor back on, waiting several seconds for the display to light up. I pressed one of the buttons again, this time making sure not press the same right-most button that turned off the display. I’m greeted with a menu. I couldn’t remember what each of the icons did so I selected the paper sheet icon with one of the buttons to see what would happen. Nothing happened. I pressed it several more time until I realized that I was pressing the button that corresponded to the volume control (this monitor has no speakers). Realizing this, I pressed the next (correct) button and this menu appeared. <br>
-![OSD Settings](assets/OSD_settings.jpg) <br>
+![OSD Settings](/assets/OSD_settings.jpg) <br>
 I searched the for the brightness slider but before I can find it the OSD vanished. I tried again using the same steps to get to the same menu. I’m able to find the brightness slider right before the menu vanishes again. I repeated the same steps again, this time paying attention to the bottom row of controls. I frantically pressed different buttons to figure out what they do before the OSD turned off. Along the way I pressed the power button several times on accident. Through trial and error, I figured out that the box and arrow icon was for selecting a setting to alter; and I was able to change the monitor’s brightness.
 ## Analysis
 
