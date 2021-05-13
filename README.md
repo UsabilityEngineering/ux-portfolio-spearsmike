@@ -9,4 +9,3 @@ This is my user experience portfolio where I explore products from a user experi
 ## UX Journal
 #### [Entry 1](entry1/)
 #### [Entry 2](entry2/)
-#### [Entry 3](entry3/)
