@@ -22,5 +22,10 @@ Once the system is proficiently learned it is reasonably efficient. Settings can
 #### **Error Tolerance**
 **Error tolerance** is how easy it is to remedy or undo an error. In this metric, the monitor scores low. The buttons used for navigating aren’t labeled. While the power button is labeled, it’s very hard to see (especially in low light) since the power symbol is embossed into the glossy black plastic and there’s providing no contrast. Another fault is that each button isn’t visible since they are on the bottom of the monitor and there are no differentiating features to the (size, shape, texture). Thus, a user must guess where the buttons are which is made more difficult by the fact that the buttons aren’t properly aligned to their onscreen functions. This misalignment is exaggerated when viewed at an oblique angle.
 
+#### Other Thoughts
+**Conventions** in design are common patterns, used in many other systems, to quickly convey meaning to a user. There are several examples in the presets menu. To the far right there is a film reel representing movies which implies that that setting is for watching movies. To the left of that is a photo icon for viewing photos. The second icon from the left uses a globe and green leaf implying that it’s an energy saving setting. This green leaf is a **convention** also used in Windows 10 to indicated the same thing. <br>
+![Windows 10 battery icon](../assets/windows10.jpg) <br>
+![OSD Presets Menu](../assets/OSD_presets.jpg)
+
 ## Recommendations
 The easiest change with the largest impact would be increasing the default OSD timeout time. While this time can be changed the default of ten seconds is too short. A new user trying to learn how to navigate through settings won’t have enough time to examine the UI. An improvement for the buttons could be moving them from the bottom to the front of the screen so users can see what they are pressing. If the controls must be along the bottom, make each button have a unique texture so they can be identified by feel and align each button to where the contextual onscreen buttons are.
